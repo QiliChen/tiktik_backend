@@ -9,8 +9,18 @@ const user={
             type:'string'
         },
         {
+            name:'password',
+            title:'Password',
+            type:'string'
+        },
+        {
             name:'image',
             title:'Image',
+            type:'string'
+        },
+        {
+            name:'type',
+            title:'Type',
             type:'string'
         }
     ]

@@ -11,10 +11,7 @@ const post= {
         {
             name: 'video',
             title: 'Video',
-            type: 'file',
-            options: {
-                hotspot: true,
-            },
+            type: 'string',
         },
         {
             name: 'userId',

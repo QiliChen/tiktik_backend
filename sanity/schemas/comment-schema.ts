@@ -8,6 +8,8 @@ const comment={
             title: 'Posted By',
             type: 'postedBy'
         },
+
+
         {
             name: 'comment',
             title: 'Comment',

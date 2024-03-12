@@ -1,4 +1,4 @@
-const SignUpr={
+const user={
     name:'user',
     title:'User',
     type:'document',
